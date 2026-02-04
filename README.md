@@ -81,10 +81,10 @@ assets/     → archivos auxiliares
 
 Después de este laboratorio ya puedo:
 
-✅ Administrar contenedores desde la CLI
-✅ Crear entornos de bases de datos rápidamente
-✅ Persistir datos con volúmenes
-✅ Conectar múltiples servicios por redes
-✅ Debuggear usando logs y exec
-✅ Entender cómo funciona Docker sin depender de GUIs
+*✅ Administrar contenedores desde la CLI
+*✅ Crear entornos de bases de datos rápidamente
+*✅ Persistir datos con volúmenes
+*✅ Conectar múltiples servicios por redes
+*✅ Debuggear usando logs y exec
+*✅ Entender cómo funciona Docker sin depender de GUIs
 
